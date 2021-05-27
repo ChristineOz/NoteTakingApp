@@ -11,6 +11,10 @@
 8. [Questions](#questions)
 ## Project Description
 * It's used to write notes that can either be deleted or saved through the application. 
+
+<img width="1121" alt="Screen Shot 2021-05-26 at 11 39 50 PM" src="https://user-images.githubusercontent.com/77952267/119762447-bf9e2780-be7b-11eb-9eb3-2f0f36e96684.png">
+
+Video DEMO: 
 ## Installation Instructions
 * npm install and node.js
 ## Usage Information
