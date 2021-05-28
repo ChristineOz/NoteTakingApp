@@ -27,7 +27,7 @@ Video DEMO: https://drive.google.com/file/d/1UlUglfu0tbY-2G3-jakbuCaz74yNTx4i/vi
 ## Test Instructions
 * N/A
 ## License
-* licensed under the 
+* MIT License
 ## Questions
 * For additional help or questions about collaboration, please reach out to Christineosmak@gmail.com
 * Follow me on Github at [ChristineOz](http://github.com/ChristineOz)
