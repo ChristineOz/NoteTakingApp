@@ -15,6 +15,8 @@
 <img width="1121" alt="Screen Shot 2021-05-26 at 11 39 50 PM" src="https://user-images.githubusercontent.com/77952267/119762447-bf9e2780-be7b-11eb-9eb3-2f0f36e96684.png"> <br>
 
 Video DEMO: https://drive.google.com/file/d/1UlUglfu0tbY-2G3-jakbuCaz74yNTx4i/view <br>
+Github Pages: https://christineoz.github.io/NoteTakingApp/
+Heroku: https://co-note-taker.herokuapp.com/
 
 ## Installation Instructions
 * npm install and node.js
